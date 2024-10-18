@@ -1,6 +1,7 @@
-on: push
+on:
   push:
     branches:
+    - main
       name: 🚀 Página Salve Meu Rei em Laravel
       jobs:
         web-deploy:
