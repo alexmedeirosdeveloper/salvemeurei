@@ -2,7 +2,7 @@ on:
   push:
     branches:
     - main
-      name: 🚀 Página Salve Meu Rei em Laravel
+      name: 🚀 Pagina Salve Meu Rei em Laravel
       jobs:
         web-deploy:
           name: 🎉 Deploy
